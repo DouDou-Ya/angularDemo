@@ -1,0 +1,4 @@
+准备node、npm环境
+1.安装全局脚手架--npm install -g @angular/cli
+2.初始化--npm install
+3.运行项目--ng serve
